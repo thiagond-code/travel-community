@@ -10,4 +10,4 @@ A community for people that loves exploring new places and adventures all across
 ### Back end
 - Firebase
 
-If you have an idea, Feel free to share your help, either on Issues or Discussions! 😀
+If you have an idea, feel free to share your help, either on Issues or Discussions! 😀
